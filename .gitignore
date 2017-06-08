@@ -1,0 +1,9 @@
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+
+*.db
+BuildingEscape/Content/StarterContent/
